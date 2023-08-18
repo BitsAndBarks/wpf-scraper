@@ -1,0 +1,217 @@
+[
+    {
+        "Defaultmodul": "Wahlpflichtf\u00e4cher 1",
+        "Fach": "App-Programmierung",
+        "ECTS": "2"
+    },
+    {
+        "Defaultmodul": "Wahlpflichtf\u00e4cher 1",
+        "Fach": "Bewegtbild",
+        "ECTS": "2"
+    },
+    {
+        "Defaultmodul": "Wahlpflichtf\u00e4cher 1",
+        "Fach": "Bildverarbeitung Labor",
+        "ECTS": "2"
+    },
+    {
+        "Defaultmodul": "Wahlpflichtf\u00e4cher 1",
+        "Fach": "Cloud Computing",
+        "ECTS": "2"
+    },
+    {
+        "Defaultmodul": "Wahlpflichtf\u00e4cher 1",
+        "Fach": "Computer Vision",
+        "ECTS": "2"
+    },
+    {
+        "Defaultmodul": "Wahlpflichtf\u00e4cher 1",
+        "Fach": "Digitale Transformation & digitales Marketing",
+        "ECTS": "2"
+    },
+    {
+        "Defaultmodul": "Wahlpflichtf\u00e4cher 1",
+        "Fach": "Game Programming",
+        "ECTS": "2"
+    },
+    {
+        "Defaultmodul": "Wahlpflichtf\u00e4cher 1",
+        "Fach": "IT-Sicherheitsmanagement",
+        "ECTS": "2"
+    },
+    {
+        "Defaultmodul": "Wahlpflichtf\u00e4cher 1",
+        "Fach": "Mathematik f\u00fcr Maschinelles Lernen",
+        "ECTS": "2"
+    },
+    {
+        "Defaultmodul": "Wahlpflichtf\u00e4cher 1",
+        "Fach": "Parallele Systeme",
+        "ECTS": "2"
+    },
+    {
+        "Defaultmodul": "Wahlpflichtf\u00e4cher 1",
+        "Fach": "Philosophie und Theorie der Informatik",
+        "ECTS": "2"
+    },
+    {
+        "Defaultmodul": "Wahlpflichtf\u00e4cher 2",
+        "Fach": "Augmented- und Virtual Reality",
+        "ECTS": "4"
+    },
+    {
+        "Defaultmodul": "Wahlpflichtf\u00e4cher 2",
+        "Fach": "Digitale Signalprozessoren",
+        "ECTS": "2"
+    },
+    {
+        "Defaultmodul": "Wahlpflichtf\u00e4cher 2",
+        "Fach": "Frameworks f\u00fcr Python",
+        "ECTS": "2"
+    },
+    {
+        "Defaultmodul": "Wahlpflichtf\u00e4cher 2",
+        "Fach": "Grafisch-geometrische Algorithmen",
+        "ECTS": "2"
+    },
+    {
+        "Defaultmodul": "Wahlpflichtf\u00e4cher 2",
+        "Fach": "HKA-APP",
+        "ECTS": "2"
+    },
+    {
+        "Defaultmodul": "Wahlpflichtf\u00e4cher 2",
+        "Fach": "IT- und Medienrecht",
+        "ECTS": "2"
+    },
+    {
+        "Defaultmodul": "Wahlpflichtf\u00e4cher 2",
+        "Fach": "IT-Consulting",
+        "ECTS": "2"
+    },
+    {
+        "Defaultmodul": "Wahlpflichtf\u00e4cher 2",
+        "Fach": "IT-Sicherheit",
+        "ECTS": "2"
+    },
+    {
+        "Defaultmodul": "Wahlpflichtf\u00e4cher 2",
+        "Fach": "Konzeption, Design und Pr\u00e4sentation von interaktiven Projekten",
+        "ECTS": "2"
+    },
+    {
+        "Defaultmodul": "Wahlpflichtf\u00e4cher 2",
+        "Fach": "Microservices",
+        "ECTS": "2"
+    },
+    {
+        "Defaultmodul": "Wahlpflichtf\u00e4cher 2",
+        "Fach": "Mikrotechnologie Labor",
+        "ECTS": "2"
+    },
+    {
+        "Defaultmodul": "Wahlpflichtf\u00e4cher 2",
+        "Fach": "Mobilkommunikation",
+        "ECTS": "2"
+    },
+    {
+        "Defaultmodul": "Wahlpflichtf\u00e4cher 2",
+        "Fach": "Modellbasierte Softwareentwicklung",
+        "ECTS": "2"
+    },
+    {
+        "Defaultmodul": "Wahlpflichtf\u00e4cher 2",
+        "Fach": "Moderne Serveranwendungen und Webapps mit TypeScript",
+        "ECTS": "2"
+    },
+    {
+        "Defaultmodul": "Wahlpflichtf\u00e4cher 2",
+        "Fach": "Predictive Modelling and Machine Learning",
+        "ECTS": "2"
+    },
+    {
+        "Defaultmodul": "Wahlpflichtf\u00e4cher 2",
+        "Fach": "Robotics - Theory and Practice",
+        "ECTS": "4"
+    },
+    {
+        "Defaultmodul": "Wahlpflichtf\u00e4cher 2",
+        "Fach": "RZ-Betrieb",
+        "ECTS": "2"
+    },
+    {
+        "Defaultmodul": "Wahlpflichtf\u00e4cher 2",
+        "Fach": "Serious Games",
+        "ECTS": "2"
+    },
+    {
+        "Defaultmodul": "Wahlpflichtf\u00e4cher 2",
+        "Fach": "Sounddesign",
+        "ECTS": "2"
+    },
+    {
+        "Defaultmodul": "Wahlpflichtf\u00e4cher 2",
+        "Fach": "Unternehmenssoftware aus der Cloud",
+        "ECTS": "2"
+    },
+    {
+        "Defaultmodul": "Wahlpflichtf\u00e4cher 3",
+        "Fach": "ABAP-Programmierung",
+        "ECTS": "2"
+    },
+    {
+        "Defaultmodul": "Wahlpflichtf\u00e4cher 3",
+        "Fach": "Ausgew\u00e4hlte Kapitel 1",
+        "ECTS": "2"
+    },
+    {
+        "Defaultmodul": "Wahlpflichtf\u00e4cher 3",
+        "Fach": "Ausgew\u00e4hlte Kapitel 2",
+        "ECTS": "2"
+    },
+    {
+        "Defaultmodul": "Wahlpflichtf\u00e4cher 3",
+        "Fach": "Echtzeitgrafik",
+        "ECTS": "2"
+    },
+    {
+        "Defaultmodul": "Wahlpflichtf\u00e4cher 3",
+        "Fach": "High Performance Computing",
+        "ECTS": "2"
+    },
+    {
+        "Defaultmodul": "Wahlpflichtf\u00e4cher 3",
+        "Fach": "High Speed Karlsruhe",
+        "ECTS": "2"
+    },
+    {
+        "Defaultmodul": "Wahlpflichtf\u00e4cher 3",
+        "Fach": "InspirING",
+        "ECTS": "2"
+    },
+    {
+        "Defaultmodul": "Wahlpflichtf\u00e4cher 3",
+        "Fach": "Projektmanagement",
+        "ECTS": "2"
+    },
+    {
+        "Defaultmodul": "Wahlpflichtf\u00e4cher 3",
+        "Fach": "Qualit\u00e4tssicherung",
+        "ECTS": "2"
+    },
+    {
+        "Defaultmodul": "Wahlpflichtf\u00e4cher 3",
+        "Fach": "Reinforcement Learning",
+        "ECTS": "2"
+    },
+    {
+        "Defaultmodul": "Wahlpflichtf\u00e4cher 3",
+        "Fach": "Soziales Engagement",
+        "ECTS": "2"
+    },
+    {
+        "Defaultmodul": "Wahlpflichtf\u00e4cher 3",
+        "Fach": "Teamteaching",
+        "ECTS": "2"
+    }
+]
